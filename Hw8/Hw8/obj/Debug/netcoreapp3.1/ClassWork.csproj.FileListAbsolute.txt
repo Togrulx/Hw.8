@@ -1,0 +1,13 @@
+/Users/togrultalibov/Desktop/Hw8/Hw8/bin/Debug/netcoreapp3.1/ClassWork.deps.json
+/Users/togrultalibov/Desktop/Hw8/Hw8/bin/Debug/netcoreapp3.1/ClassWork.runtimeconfig.json
+/Users/togrultalibov/Desktop/Hw8/Hw8/bin/Debug/netcoreapp3.1/ClassWork.runtimeconfig.dev.json
+/Users/togrultalibov/Desktop/Hw8/Hw8/bin/Debug/netcoreapp3.1/ClassWork.dll
+/Users/togrultalibov/Desktop/Hw8/Hw8/bin/Debug/netcoreapp3.1/ClassWork.pdb
+/Users/togrultalibov/Desktop/Hw8/Hw8/obj/Debug/netcoreapp3.1/ClassWork.csproj.AssemblyReference.cache
+/Users/togrultalibov/Desktop/Hw8/Hw8/obj/Debug/netcoreapp3.1/ClassWork.GeneratedMSBuildEditorConfig.editorconfig
+/Users/togrultalibov/Desktop/Hw8/Hw8/obj/Debug/netcoreapp3.1/ClassWork.AssemblyInfoInputs.cache
+/Users/togrultalibov/Desktop/Hw8/Hw8/obj/Debug/netcoreapp3.1/ClassWork.AssemblyInfo.cs
+/Users/togrultalibov/Desktop/Hw8/Hw8/obj/Debug/netcoreapp3.1/ClassWork.csproj.CoreCompileInputs.cache
+/Users/togrultalibov/Desktop/Hw8/Hw8/obj/Debug/netcoreapp3.1/ClassWork.dll
+/Users/togrultalibov/Desktop/Hw8/Hw8/obj/Debug/netcoreapp3.1/ClassWork.pdb
+/Users/togrultalibov/Desktop/Hw8/Hw8/obj/Debug/netcoreapp3.1/ClassWork.genruntimeconfig.cache
